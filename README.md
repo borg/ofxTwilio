@@ -26,4 +26,4 @@ Created by Andreas Borg, 2017
  
 
 **License**  
-Whatever [Twilio](https://www.twilio.com) C++ SDK license is under.
+Whatever [Twilio](https://www.twilio.com) SDK license is under.
